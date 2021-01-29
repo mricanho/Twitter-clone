@@ -3,6 +3,10 @@
 In this project, I build a fully functional primite Twitter. The scope is to test the knowledge of routes, models, controllers and views of Ruby on Rails.
 
 ![screenshot](./code.jpeg)
+
+## Live Demo
+<a href="https://stark-wave-72819.herokuapp.com/">Visit Page</a>
+
 ## Built With
 
 - Ruby 2.7.2
